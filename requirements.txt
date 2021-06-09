@@ -1,0 +1,8 @@
+discord>=1.0.1
+discord.py>=1.7.2
+bs4>=0.0.1
+youtube_dl>=2021.6.6
+pythonping>=1.1.0
+gtts>=2.2.2
+asyncio>=3.4.3
+requests>=2.25.1
