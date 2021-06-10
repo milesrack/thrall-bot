@@ -9,14 +9,14 @@ pip3 install -r requirements.txt
 ```
 
 ## :pushpin: Setup
-1. Sign into the [Discord developer portal](https://discord.com/developers)
-2. Click `New Application`
-3. Name your application
-4. On the left-hand bar click the `Bot` section
-5. Click `Add Bot`
-6. Copy and paste your token into `discord_token.txt` (it must be in the same directory as `bot.py`)
-7. Create an account on [ipgeolocation](https://ipgeolocation.io/)
-8. Copy and paste the api key into `ip_geo_token.txt` (it must be in the same directory as `bot.py`)
+- Sign into the [Discord developer portal](https://discord.com/developers)
+- Click `New Application`
+- Name your application
+- On the left-hand bar click the `Bot` section
+- Click `Add Bot`
+- Copy and paste your token into `discord_token.txt` (it must be in the same directory as `bot.py`)
+- Create an account on [ipgeolocation](https://ipgeolocation.io/)
+- Copy and paste the api key into `ip_geo_token.txt` (it must be in the same directory as `bot.py`)
 
 ## :pushpin: Usage
 Running the discord bot is simple:
