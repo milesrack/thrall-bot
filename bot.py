@@ -161,7 +161,7 @@ class Misc(commands.Cog):
 			os.remove(imgpath)
 		except:
 			await ctx.send(f'Failed to get an image from https://thispersondoesnotexist.com')
-	@commands.command(description='Searches for images on DuckDuckGo')
+	@commands.command(description='Searches for images Google Images')
 	async def img(self,ctx, *args):
 		message = ' '.join(args)
 		headers = {
